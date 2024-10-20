@@ -1,4 +1,4 @@
-# Car Evaluation Using Convolutional Neural Networks (CNN) using PyTorch and Skorch
+# Car Evaluation to predict safety of a car using Convolutional Neural Networks (CNN) with PyTorch and Skorch
 
 ## Project Overview
 
